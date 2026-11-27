@@ -8,7 +8,7 @@
   "q1": "node src/server/1-matches-per-year.js",
   "q2": "node src/server/2-matches-won-per-team-per-year.js",
   "q3": "node src/server/3-extra-runs-per-team-2016.js",
-  "q4": "node src/server/4-top-economical-bowlers-2015.js"
+  "q4": "node src/server/4-top-economical-bowlers-2016.js"
 },
   "keywords": [],
   "author": "",
