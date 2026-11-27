@@ -1,0 +1,20 @@
+{
+  "name": "ipl-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "q1": "node src/server/1-matches-per-year.js",
+  "q2": "node src/server/2-matches-won-per-team-per-year.js",
+  "q3": "node src/server/3-extra-runs-per-team-2016.js",
+  "q4": "node src/server/4-top-economical-bowlers-2015.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "papaparse": "^5.7.1"
+  }
+}
